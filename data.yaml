@@ -4,10 +4,3 @@ test: D:/yolo-v5.v1i.yolov5pytorch/test/images
 
 nc: 6
 names: ['Goodbye', 'Hello', 'I Love You', 'Sleep', 'Thank You', 'Yes']
-
-roboflow:
-  workspace: chokopai06
-  project: yolo-v5-hkkbe
-  version: 1
-  license: CC BY 4.0
-  url: https://universe.roboflow.com/chokopai06/yolo-v5-hkkbe/dataset/1
